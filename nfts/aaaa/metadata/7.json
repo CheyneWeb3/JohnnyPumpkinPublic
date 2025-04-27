@@ -1,0 +1,15 @@
+{
+  "name": "Pumpkin 70% Energy",
+  "description": "A strong pumpkin with 70% energy. Grows stronger with each quality level.",
+  "image": "https://yourdomain.com/pumpkin.png",
+  "attributes": [
+    {
+      "trait_type": "Quality",
+      "value": "70%"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pumpkin"
+    }
+  ]
+}
