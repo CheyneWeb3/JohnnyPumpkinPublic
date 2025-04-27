@@ -1,7 +1,7 @@
 {
   "name": "Pumpkin 50% Energy",
   "description": "A strong pumpkin with 50% energy. Grows stronger with each quality level.",
-  "image": "https://yourdomain.com/pumpkin.png",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/JohnnyPumpkinPublic/refs/heads/main/images/pumpkin.png",
   "attributes": [
     {
       "trait_type": "Quality",
