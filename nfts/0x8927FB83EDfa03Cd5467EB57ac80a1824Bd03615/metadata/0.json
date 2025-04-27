@@ -1,0 +1,19 @@
+{
+  "name": "Farmer Johnny",
+  "description": "Johnny is a hardworking farmer known for his dedication and love for the land. Always ready with a smile and a shovel!",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/JohnnyPumpkinPublic/refs/heads/main/nfts/0x8927FB83EDfa03Cd5467EB57ac80a1824Bd03615/images/0.png",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Johnny"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Farmer"
+    },
+    {
+      "trait_type": "Specialty",
+      "value": "Crop Farming"
+    }
+  ]
+}

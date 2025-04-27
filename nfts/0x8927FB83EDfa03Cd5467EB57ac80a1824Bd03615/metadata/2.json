@@ -1,0 +1,19 @@
+{
+  "name": "Farmer Joanne",
+  "description": "Joanne is a passionate farmer who tends to both crops and livestock, bringing life and energy to the farm with her vibrant spirit.",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/JohnnyPumpkinPublic/refs/heads/main/nfts/0x8927FB83EDfa03Cd5467EB57ac80a1824Bd03615/images/2.png",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Joanne"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Farmer"
+    },
+    {
+      "trait_type": "Specialty",
+      "value": "Livestock and Crops"
+    }
+  ]
+}
