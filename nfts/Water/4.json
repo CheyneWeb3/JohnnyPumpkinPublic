@@ -1,0 +1,24 @@
+{
+  "name": "Water (40% Quality)",
+  "description": "Pristine water used for Johnny Pumpkin Farms crops. Essential for the best harvests!",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/JohnnyPumpkinPublic/main/nfts/water/images/water.png",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "40%"
+    },
+    {
+      "trait_type": "Use",
+      "value": "Crop Farming"
+    },
+    {
+      "trait_type": "Farm",
+      "value": "Johnny Pumpkin Farms"
+    }
+  ],
+  "external_url": "https://johnnypumpkinfarms.com"
+}
